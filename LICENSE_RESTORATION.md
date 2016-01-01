@@ -1,0 +1,50 @@
+<!--
+ - SPDX-FileCopyrightText: 2026 Alinur Dzjeenbekov
+ - SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+# Restored upstream license notices
+
+License notices missing from the local import were retrieved from the official upstream repository on November 3, 2026. Files already present in the import were preserved.
+
+These files are pinned to the upstream revision below for reproducibility. **This is the license retrieval revision, not a verified revision of the imported source snapshot.** Review per-file and commercial-directory notices before redistribution.
+
+Upstream: https://github.com/nextcloud/server
+Retrieval revision: `85ef02d977e6958c734d33bda4876e0948bcb890`
+
+| File | SHA-256 | Source |
+| --- | --- | --- |
+| [COPYING](COPYING) | `57c8ff33c9c0cfc3ef00e650a1cc910d7ee479a8bc509f6c9209a7c2a11399d6` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/COPYING) |
+| [COPYING-README](COPYING-README) | `c269f524e3e81989b05eba49b82a9e523188fa898ba2d8a561338a5aa8b8f1df` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/COPYING-README) |
+| [LICENSES/AGPL-3.0-only.txt](LICENSES/AGPL-3.0-only.txt) | `d8a6cc31abc16b6748c7a21f21611f5a1ec33f67d22ca23d7da1c19b95496bee` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/AGPL-3.0-only.txt) |
+| [LICENSES/AGPL-3.0-or-later.txt](LICENSES/AGPL-3.0-or-later.txt) | `d8a6cc31abc16b6748c7a21f21611f5a1ec33f67d22ca23d7da1c19b95496bee` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/AGPL-3.0-or-later.txt) |
+| [LICENSES/Apache-2.0.txt](LICENSES/Apache-2.0.txt) | `074e6e32c86a4c0ef8b3ed25b721ca23aca83df277cd88106ef7177c354615ff` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/Apache-2.0.txt) |
+| [LICENSES/BSD-2-Clause.txt](LICENSES/BSD-2-Clause.txt) | `f32fb3b417a194167cfad068223fc975ba96c5960513a10f66a3c28720aec1df` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/BSD-2-Clause.txt) |
+| [LICENSES/BSD-3-Clause.txt](LICENSES/BSD-3-Clause.txt) | `5a93d5831e1297ab10fe643e1a631e83be392896da14ee2951285a79012df69d` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/BSD-3-Clause.txt) |
+| [LICENSES/CC-BY-2.0.txt](LICENSES/CC-BY-2.0.txt) | `f892996eb4b6f2e54241432ed67b743772224e191ba3a0ae595eb4feca3df4c5` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/CC-BY-2.0.txt) |
+| [LICENSES/CC-BY-4.0.txt](LICENSES/CC-BY-4.0.txt) | `d557539df68e771cc1eedcc91d13f70fca930e508d11eedcafa4b15db49e3744` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/CC-BY-4.0.txt) |
+| [LICENSES/CC-BY-SA-2.0.txt](LICENSES/CC-BY-SA-2.0.txt) | `6d6b3bb586e5f4ae7e6a955556442fbfcc2a6cedb89be5e4e0492b2983e40760` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/CC-BY-SA-2.0.txt) |
+| [LICENSES/CC-BY-SA-3.0-IGO.txt](LICENSES/CC-BY-SA-3.0-IGO.txt) | `f0409ed4e4d66769650b863f1150e7ce9b61be5d4330f97b3975110e733d11ed` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/CC-BY-SA-3.0-IGO.txt) |
+| [LICENSES/CC-BY-SA-3.0.txt](LICENSES/CC-BY-SA-3.0.txt) | `3f941b3b89cf7b8370ceb83cc76d2120d471b58735d8ca60238a751a48d7f72f` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/CC-BY-SA-3.0.txt) |
+| [LICENSES/CC-BY-SA-4.0.txt](LICENSES/CC-BY-SA-4.0.txt) | `cde7883b9050a1104f4ac19a1572aafd6e5d7323b68351aaf51fbf4beba54966` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/CC-BY-SA-4.0.txt) |
+| [LICENSES/CC0-1.0.txt](LICENSES/CC0-1.0.txt) | `a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/CC0-1.0.txt) |
+| [LICENSES/GPL-2.0-only.txt](LICENSES/GPL-2.0-only.txt) | `aaf135472f81c5b4a0dca9367e5bb5e9750032b5bebe5442b36e4c0a47430df3` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/GPL-2.0-only.txt) |
+| [LICENSES/GPL-3.0-or-later.txt](LICENSES/GPL-3.0-or-later.txt) | `fb981668c18a279e285fc4d83fba1e836cc84dd4daa73c9697d3cfd2d8aca6e0` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/GPL-3.0-or-later.txt) |
+| [LICENSES/ISC.txt](LICENSES/ISC.txt) | `f2ec607f67bb0dd3053b49835b02110d5cd0f8eb6da3aac4dc0b142a6b299be9` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/ISC.txt) |
+| [LICENSES/LicenseRef-AppleAppStoreBadge.txt](LICENSES/LicenseRef-AppleAppStoreBadge.txt) | `97e9f00917616f38dee57e83d069780b4bdd4cb4eb45c30a9f21193e2cb70694` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/LicenseRef-AppleAppStoreBadge.txt) |
+| [LICENSES/LicenseRef-CollaboraTrademarks.txt](LICENSES/LicenseRef-CollaboraTrademarks.txt) | `c66d07d3b6859a7a970f25b31388a3a12f2cc0c975a56eb8833cd43a22efde4c` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/LicenseRef-CollaboraTrademarks.txt) |
+| [LICENSES/LicenseRef-DCO.txt](LICENSES/LicenseRef-DCO.txt) | `3b9be9c71ab324dccbbe8ad24765bdb3d5f1db5c508313526e409680361be572` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/LicenseRef-DCO.txt) |
+| [LICENSES/LicenseRef-DiasporaTrademarks.txt](LICENSES/LicenseRef-DiasporaTrademarks.txt) | `243c17ae9b2f6bbe05bf6902553cad33ebfe1af600c2f703ba2f2830cf334715` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/LicenseRef-DiasporaTrademarks.txt) |
+| [LICENSES/LicenseRef-FacebookTrademarks.txt](LICENSES/LicenseRef-FacebookTrademarks.txt) | `8b6edf1d7d515a7835998129d71555f3bf451542489adc458da08816a2a8d350` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/LicenseRef-FacebookTrademarks.txt) |
+| [LICENSES/LicenseRef-GooglePlayBadge.txt](LICENSES/LicenseRef-GooglePlayBadge.txt) | `669b71d1a63656903a10410d246dcbe1b28f0a4d78bebceac6bcbebd90df1be0` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/LicenseRef-GooglePlayBadge.txt) |
+| [LICENSES/LicenseRef-MastodonTrademarks.txt](LICENSES/LicenseRef-MastodonTrademarks.txt) | `ade43119860699f36c670d4ab38f7725555e22fc2ab33e8afa021c3c284fdbe8` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/LicenseRef-MastodonTrademarks.txt) |
+| [LICENSES/LicenseRef-Nasa.txt](LICENSES/LicenseRef-Nasa.txt) | `72bbe007c1e983e8fef0efc9276ef35330bcd0f8db7c3991477facfebdb5495f` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/LicenseRef-Nasa.txt) |
+| [LICENSES/LicenseRef-NextcloudTrademarks.txt](LICENSES/LicenseRef-NextcloudTrademarks.txt) | `633ae7de945e3860bf59f848bc55a5e7aceb3940afbfba78bd3317f8b53a2a93` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/LicenseRef-NextcloudTrademarks.txt) |
+| [LICENSES/LicenseRef-TheDocumentFoundationTrademarks.txt](LICENSES/LicenseRef-TheDocumentFoundationTrademarks.txt) | `2a8c36a3ef3b72cd3fb96af1fe728e542cb7614372f1d4b4c0b3f33c6fb14f1f` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/LicenseRef-TheDocumentFoundationTrademarks.txt) |
+| [LICENSES/LicenseRef-Unsplash.txt](LICENSES/LicenseRef-Unsplash.txt) | `3d3c40eecdabe2883396a750345b2e7060a0eb0813ca3d02aabf2b5cd2800f42` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/LicenseRef-Unsplash.txt) |
+| [LICENSES/LicenseRef-XTrademarks.txt](LICENSES/LicenseRef-XTrademarks.txt) | `a02e5d39a3b3412effcbb6d20f7cc205e17a8494ea66bb4b177d52cf937e9bab` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/LicenseRef-XTrademarks.txt) |
+| [LICENSES/MIT.txt](LICENSES/MIT.txt) | `b85dcd3e453d05982552c52b5fc9e0bdd6d23c6f8e844b984a88af32570b0cc0` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/MIT.txt) |
+| [LICENSES/MPL-2.0.txt](LICENSES/MPL-2.0.txt) | `66a3107d5ad6a058aab753eaac2047ccb2ed0e39465dd0fe5844da3e300d5172` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/MPL-2.0.txt) |
+| [LICENSES/OFL-1.1-RFN.txt](LICENSES/OFL-1.1-RFN.txt) | `8eea8287e5876b539670cadb82e99f9a7afddec6f6730811be1daf25d2e9bcfd` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/OFL-1.1-RFN.txt) |
+| [LICENSES/OFL-1.1.txt](LICENSES/OFL-1.1.txt) | `8eea8287e5876b539670cadb82e99f9a7afddec6f6730811be1daf25d2e9bcfd` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/LICENSES/OFL-1.1.txt) |
+| [AUTHORS](AUTHORS) | `82ff784bedd6b7e951e9895248669e13f407062b3be7d01ec3ba3941d0665d32` | [Official source](https://raw.githubusercontent.com/nextcloud/server/85ef02d977e6958c734d33bda4876e0948bcb890/AUTHORS) |

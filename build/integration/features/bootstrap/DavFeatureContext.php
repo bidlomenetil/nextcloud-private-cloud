@@ -1,0 +1,25 @@
+<?php
+
+declare(strict_types=1);
+
+/**
+ * SPDX-FileCopyrightText: 2024 Nextcloud GmbH and Nextcloud contributors
+ * SPDX-License-Identifier: AGPL-3.0-or-later
+ */
+
+use Behat\Behat\Context\Context;
+
+require __DIR__ . '/autoload.php';
+
+class DavFeatureContext implements Context {
+	use AppConfiguration;
+	use ContactsMenu;
+	use ExternalStorage;
+	use Search;
+	use WebDav;
+	use Trashbin;
+
+	protected function resetAppConfigs() {
+		$this->deleteServerConfig('files_sharing', 'outgoing_server2server_share_enabled');
+	}
+}
